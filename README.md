@@ -1,5 +1,8 @@
 # Database Cleaner Adapter for MongoMapper
 
+## Maintainers Wanted
+**This adapter is currently unmaintained. This means that bugs will not be fixed and features will not be added unless someone else does so. If you're interested in taking over maintenance, please open an issue and tell us about it!**
+
 [![Build Status](https://travis-ci.org/DatabaseCleaner/database_cleaner-mongo_mapper.svg?branch=master)](https://travis-ci.org/DatabaseCleaner/database_cleaner-mongo_mapper)
 [![Code Climate](https://codeclimate.com/github/DatabaseCleaner/database_cleaner-mongo_mapper/badges/gpa.svg)](https://codeclimate.com/github/DatabaseCleaner/database_cleaner-mongo_mapper)
 
